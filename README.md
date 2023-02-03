@@ -1,4 +1,4 @@
-  <img src="https://a.ltrbxd.com/resized/sm/upload/yd/jo/pk/7y/HardBoiled_Baby-0-1280-0-720-crop-fill.jpg?k=95bf9025ea"
+  <img src="HardBoiled_Baby-0-1280-0-720-crop-fill.png"
      alt="badass"
      style="float: left; margin-right: 10px;" />
   
