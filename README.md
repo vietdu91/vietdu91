@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**vietdu91/vietdu91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://a.ltrbxd.com/resized/sm/upload/yd/jo/pk/7y/HardBoiled_Baby-0-1280-0-720-crop-fill.jpg?k=95bf9025ea"
+     alt="badass"
+     style="float: left; margin-right: 10px;" />
+  
+  <p align="center">
+     <img align="center" src="https://github-readme-stats.vercel.app/api?username=vietdu91&show_icons=true&locale=fr&theme=gruvbox_light&hide_border=true" alt="vietdu91" />
+  </p>
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vietdu91&show_icons=true&locale=fr&layout=compact&theme=synthwave&hide_border=true" alt="vietdu91" />
+  </p>
