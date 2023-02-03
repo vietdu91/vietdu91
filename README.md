@@ -21,6 +21,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.devopsschool.com/trainer/assets/images/makefiles-logo.png" width="88.96" height="100" />
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Confit_byaldi_2.jpg/640px-Confit_byaldi_2.jpg" width="135" height="100" />
 </p>
 <br>
 <h1 align="center">En cours d'acquisition</h1>
