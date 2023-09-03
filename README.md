@@ -21,6 +21,12 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.devopsschool.com/trainer/assets/images/makefiles-logo.png" width="68.96" height="80" />
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/640px-CSS3_logo.svg.png" width="80" height="80" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Javascript_Logo.png/640px-Javascript_Logo.png" width="80" height="80" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="90" height="80" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/watch?v=w2drHZXBhS0">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Confit_byaldi_2.jpg/640px-Confit_byaldi_2.jpg" width="115" height="80" />
   </a>
@@ -30,11 +36,9 @@
 <p align="center">
   <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="120" height="80" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/640px-CSS3_logo.svg.png" width="80" height="80" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Javascript_Logo.png/640px-Javascript_Logo.png" width="80" height="80" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/640px-PHP-logo.svg.png" width="150" height="80" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://user-images.githubusercontent.com/78547273/216676998-6ccf4b80-39c4-48c0-89f6-c12e1a30966f.png" width="80" height="80" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png" width="80" height="80" />
 </p>
